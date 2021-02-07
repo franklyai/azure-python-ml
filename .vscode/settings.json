@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": ".venv\\Scripts\\python.exe",
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
     "jupyter.jupyterServerType": "local"
 }
